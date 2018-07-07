@@ -1,6 +1,6 @@
 # ICOTS10
 These are my ICOTS slides.
 
-[Presentation-pptx](2018 ICOTS - Doehler and Taylor.pptx}
+[Presentation-pptx](https://github.com/kirstendoehler/ICOTS10/blob/master/2018%20ICOTS%20-%20Doehler%20and%20Taylor.pptx}
 
-[Presentation-pdf](2018 ICOTS - Doehler and Taylor.pdf)
+[Presentation-pdf](https://github.com/kirstendoehler/ICOTS10/blob/master/2018%20ICOTS%20-%20Doehler%20and%20Taylor.pdf)
